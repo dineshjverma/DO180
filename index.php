@@ -2,8 +2,8 @@
 <html>
 <body>
 
-<h1>Hello from Nishu </h1>
-<h2>Hello from Nishdi pishudi </h2>
+<h1>Hello from Dinesh </h1>
+
 <?php
 echo "hello World from webhooks "
 ?>
